@@ -18,7 +18,7 @@ A simple, responsive Expense Tracker web application built with **HTML**, **CSS*
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/expense-tracker-amrutha-s.git
+   git clone https://github.com/<Amrutha-Santhosh>/expense-tracker-amrutha-s.git
    ```
 2. **Open the app**
    - Navigate to the project folder.
